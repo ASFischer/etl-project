@@ -1,0 +1,22 @@
+[
+  {"id": 1, "sku": "ELE-0001", "nome": "Smartphone Galaxy A54", "categoria": "Eletrônicos", "marca": "Samsung", "preco": 1899.90, "estoque": 45, "ativo": true, "data_cadastro": "2024-01-10"},
+  {"id": 2, "sku": "ELE-0002", "nome": "Notebook Inspiron 15", "categoria": "Eletrônicos", "marca": "Dell", "preco": 3499.00, "estoque": 18, "ativo": true, "data_cadastro": "2024-01-15"},
+  {"id": 3, "sku": "ELE-0003", "nome": "Fone de Ouvido Bluetooth WH-CH520", "categoria": "Eletrônicos", "marca": "Sony", "preco": 249.90, "estoque": 120, "ativo": true, "data_cadastro": "2024-02-03"},
+  {"id": 4, "sku": "ELE-0004", "nome": "Smart TV 50\" 4K", "categoria": "Eletrônicos", "marca": "LG", "preco": 2599.00, "estoque": 22, "ativo": true, "data_cadastro": "2024-02-20"},
+  {"id": 5, "sku": "ELE-0005", "nome": "Mouse Sem Fio MX Anywhere", "categoria": "Informática", "marca": "Logitech", "preco": 399.00, "estoque": 64, "ativo": true, "data_cadastro": "2024-03-05"},
+  {"id": 6, "sku": "INF-0006", "nome": "Teclado Mecânico K552", "categoria": "Informática", "marca": "Redragon", "preco": 229.90, "estoque": 80, "ativo": true, "data_cadastro": "2024-03-12"},
+  {"id": 7, "sku": "INF-0007", "nome": "Monitor 24\" Full HD", "categoria": "Informática", "marca": "AOC", "preco": 749.00, "estoque": 35, "ativo": true, "data_cadastro": "2024-03-28"},
+  {"id": 8, "sku": "INF-0008", "nome": "SSD NVMe 1TB", "categoria": "Informática", "marca": "Kingston", "preco": 389.90, "estoque": 90, "ativo": true, "data_cadastro": "2024-04-02"},
+  {"id": 9, "sku": "ELD-0009", "nome": "Geladeira Frost Free 400L", "categoria": "Eletrodomésticos", "marca": "Brastemp", "preco": 4199.00, "estoque": 9, "ativo": true, "data_cadastro": "2024-04-18"},
+  {"id": 10, "sku": "ELD-0010", "nome": "Fritadeira Elétrica Air Fryer 4L", "categoria": "Eletrodomésticos", "marca": "Philco", "preco": 359.90, "estoque": 55, "ativo": true, "data_cadastro": "2024-05-01"},
+  {"id": 11, "sku": "ELD-0011", "nome": "Liquidificador 1000W", "categoria": "Eletrodomésticos", "marca": "Oster", "preco": 189.90, "estoque": 70, "ativo": true, "data_cadastro": "2024-05-14"},
+  {"id": 12, "sku": "ELD-0012", "nome": "Aspirador de Pó Robô", "categoria": "Eletrodomésticos", "marca": "Xiaomi", "preco": 1299.00, "estoque": 0, "ativo": false, "data_cadastro": "2024-05-30"},
+  {"id": 13, "sku": "MOV-0013", "nome": "Cadeira de Escritório Ergonômica", "categoria": "Móveis", "marca": "Flexform", "preco": 899.00, "estoque": 27, "ativo": true, "data_cadastro": "2024-06-08"},
+  {"id": 14, "sku": "MOV-0014", "nome": "Mesa de Escritório 140cm", "categoria": "Móveis", "marca": "Politorno", "preco": 549.90, "estoque": 14, "ativo": true, "data_cadastro": "2024-06-21"},
+  {"id": 15, "sku": "ESP-0015", "nome": "Tênis de Corrida Pegasus 40", "categoria": "Esportes", "marca": "Nike", "preco": 699.90, "estoque": 48, "ativo": true, "data_cadastro": "2024-07-04"},
+  {"id": 16, "sku": "ESP-0016", "nome": "Bicicleta Aro 29 21 Marchas", "categoria": "Esportes", "marca": "Caloi", "preco": 1850.00, "estoque": 11, "ativo": true, "data_cadastro": "2024-07-19"},
+  {"id": 17, "sku": "ESP-0017", "nome": "Bola de Futebol de Campo", "categoria": "Esportes", "marca": "Adidas", "preco": 129.90, "estoque": 150, "ativo": true, "data_cadastro": "2024-08-02"},
+  {"id": 18, "sku": "LIV-0018", "nome": "Livro Clean Code", "categoria": "Livros", "marca": "Alta Books", "preco": 119.90, "estoque": 60, "ativo": true, "data_cadastro": "2024-08-15"},
+  {"id": 19, "sku": "LIV-0019", "nome": "Livro Designing Data-Intensive Applications", "categoria": "Livros", "marca": "O'Reilly", "preco": 289.00, "estoque": 33, "ativo": true, "data_cadastro": "2024-08-29"},
+  {"id": 20, "sku": "BEL-0020", "nome": "Perfume Eau de Toilette 100ml", "categoria": "Beleza", "marca": "O Boticário", "preco": 219.90, "estoque": 75, "ativo": true, "data_cadastro": "2024-09-10"}
+]
