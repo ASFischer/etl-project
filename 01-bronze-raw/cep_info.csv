@@ -1,0 +1,45 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01310-100,Avenida Paulista,de 612 a 1510 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-020,Praça Pio X,lado ímpar,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+70040-010,Quadra SBN Quadra 1,,,Asa Norte,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+30130-010,Praça Sete de Setembro,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80010-010,Rua Marechal Deodoro,até 0766 - lado par,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90010-150,Praça da Alfândega,,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+50010-000,Avenida Guararapes,,,Santo Antônio,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+60025-000,Rua Senador Pompeu,até 1819/1820,,Centro,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+69010-001,Avenida Eduardo Ribeiro,de 632/633 ao fim,,Centro,Manaus,AM,Amazonas,Norte,1302603,,92,0255
+66010-000,Avenida Presidente Vargas,até 379/380,,Campina,Belém,PA,Pará,Norte,1501402,,91,0427
+74003-010,Praça Doutor Pedro Ludovico Teixeira,,,Setor Central,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+88010-001,Rua Felipe Schmidt,de 350/351 a 979/980,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+29010-020,Praça Presidente Roosevelt,,,Centro,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+49010-000,Rua Laranjeiras,até 1022/1023,,Centro,Aracaju,SE,Sergipe,Nordeste,2800308,,79,3105
+57020-000,Rua do Comércio,,,Centro,Maceió,AL,Alagoas,Nordeste,2704302,,82,2785
+58010-000,Avenida Beaurepaire Rohan,lado par,,Varadouro,João Pessoa,PB,Paraíba,Nordeste,2507507,,83,2051
+59010-000,Avenida Presidente Café Filho,,,Praia do Meio,Natal,RN,Rio Grande do Norte,Nordeste,2408102,,84,1761
+65010-000,Rua Vinte e Oito de Setembro,,,Centro,São Luís,MA,Maranhão,Nordeste,2111300,,98,0921
+78005-000,Rua Engenheiro Ricardo Franco,,,Centro-Norte,Cuiabá,MT,Mato Grosso,Centro-Oeste,5103403,,65,9067
+79002-000,Avenida Calógeras,de 1513 a 1997 - lado ímpar,,Centro,Campo Grande,MS,Mato Grosso do Sul,Centro-Oeste,5002704,,67,9051
+77001-002,Praça Girassóis,,,Plano Diretor Norte,Palmas,TO,Tocantins,Norte,1721000,,63,9733
+76801-000,Avenida Pinheiro Machado,até 550 - lado par,,Centro,Porto Velho,RO,Rondônia,Norte,1100205,,69,0003
+69301-000,Avenida Ville Roy,de 5373/5374 a 6277/6278,,Centro,Boa Vista,RR,Roraima,Norte,1400100,,95,0301
+13010-001,Avenida Doutor Moraes Salles,de 702/703 a 1230/1231,,Centro,Campinas,SP,São Paulo,Sudeste,3509502,2446,19,6291
+14010-000,Rua General Osório,até 1498/1499,,Centro,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+36010-000,Rua Halfeld,de 101/102 a 449/450,,Centro,Juiz de Fora,MG,Minas Gerais,Sudeste,3136702,,32,4733
+86010-000,Rua Professor João Cândido,até 1059/1060,,Centro,Londrina,PR,Paraná,Sul,4113700,,43,7667
+87013-000,Avenida Brasil,de 2731/2732 a 4569/4570,,Zona 01,Maringá,PR,Paraná,Sul,4115200,,44,7691
+89010-000,Rua 15 de Novembro,até 900 - lado par,,Centro,Blumenau,SC,Santa Catarina,Sul,4202404,,47,8047
+89201-000,Rua do Príncipe,até 428 - lado par,,Centro,Joinville,SC,Santa Catarina,Sul,4209102,,47,8179
+96010-000,Rua Félix Xavier da Cunha,,,Centro,Pelotas,RS,Rio Grande do Sul,Sul,4314407,,53,8791
+97010-000,Rua Venâncio Aires,até 1312 - lado par,,Centro,Santa Maria,RS,Rio Grande do Sul,Sul,4316907,,55,8841
+12210-000,Rua Vilaça,,,Centro,São José dos Campos,SP,São Paulo,Sudeste,3549904,6452,12,7099
+09010-000,Rua Coronel Oliveira Lima,,,Centro,Santo André,SP,São Paulo,Sudeste,3547809,6269,11,7057
+07010-000,Praça Presidente Getúlio Vargas,,,Centro,Guarulhos,SP,São Paulo,Sudeste,3518800,3360,11,6477
+18010-000,Rua da Penha,até 470/471,,Centro,Sorocaba,SP,São Paulo,Sudeste,3552205,6695,15,7145
+24020-000,Avenida Visconde do Rio Branco,até 145 - lado ímpar,,Centro,Niterói,RJ,Rio de Janeiro,Sudeste,3303302,,21,5865
+25610-000,Rua Epitácio Pessoa,,,Centro,Petrópolis,RJ,Rio de Janeiro,Sudeste,3303906,,24,5877
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+04538-132,Avenida Brigadeiro Faria Lima,de 3252 ao fim - lado par,,Itaim Bibi,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+05428-002,Rua Ferreira de Araújo,de 687/688 ao fim,,Pinheiros,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22041-001,Avenida Atlântica,de 2174 a 2634 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+22250-040,Praia Botafogo,de 285/286 ao fim,,Botafogo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30140-071,Rua dos Aimorés,de 971/972 a 1399/1400,,Boa Viagem,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
